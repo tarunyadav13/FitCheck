@@ -57,17 +57,17 @@ Below are key screens from the **FitCheck** app:
 
 
 **Splash Screen** 
-![Splash](images/splash_screen.png) 
+![Splash](images/splash_screen.jpg) 
 **Sidebar** 
-![Sidebar](images/sidebar.png) |
+![Sidebar](images/sidebar.jpg) |
 **Home Screen** | 
-![Home](images/home_screen.png) |
+![Home](images/home_screen.jpg) |
 **Learn Screen** | 
-![Learn](images/learn_screen.png) |
+![Learn](images/learn_screen.jpg) |
 **Health Dashboard** | 
-![Health](images/health_screen.png) |
+![Health](images/health_screen.jpg) |
 **History Tracking** | 
-![History](images/history_screen.png) |
+![History](images/history_screen.jpg) |
 
 ---
 
