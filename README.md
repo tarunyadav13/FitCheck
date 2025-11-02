@@ -55,14 +55,19 @@ It provides interactive calculators, educational content, and personalized healt
 
 Below are key screens from the **FitCheck** app:
 
-| Feature | Screenshot |
-|----------|-------------|
-| **Splash Screen** | ![Sidebar](images/screenshots/splash_screen.png) |
-| **Sidebar** | ![Home](images/screenshots/sidebar.png) |
-| **Home Screen** | ![Splash](images/screenshots/home_screen.png) |
-| **Learn Screen** | ![BMI](images/screenshots/learn_screen.png) |
-| **Health Dashboard** | ![Health](images/screenshots/health_screen.png) |
-| **History Tracking** | ![History](images/screenshots/history_screen.png) |
+
+**Splash Screen** 
+![Splash](images/splash_screen.png) 
+**Sidebar** 
+![Sidebar](images/sidebar.png) |
+**Home Screen** | 
+![Home](images/home_screen.png) |
+**Learn Screen** | 
+![Learn](images/learn_screen.png) |
+**Health Dashboard** | 
+![Health](images/health_screen.png) |
+**History Tracking** | 
+![History](images/history_screen.png) |
 
 ---
 
