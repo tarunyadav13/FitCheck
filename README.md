@@ -55,6 +55,14 @@ It provides interactive calculators, educational content, and personalized healt
 
 Below are key screens from the **FitCheck** app:
 
+<p align="center">
+  <img src="images/splash_screen.jpg" width="250" />
+  <img src="images/sidebar.jpg" width="250" />
+  <img src="images/home_screen.jpg" width="250" />
+  <img src="images/learn_screen.jpg" width="250" />
+  <img src="images/health_screen.jpg" width="250" />
+  <img src="images/history_screen.jpg" width="250" />
+</p>
 
 **Splash Screen** 
 ![Splash](images/splash_screen.jpg) 
